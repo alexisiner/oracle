@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|c:\\users\\alex\\documents\\c#\\apioracle\\apioracle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|solutionrelative:apioracle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|c:\\users\\alex\\documents\\c#\\apioracle\\apioracle\\data\\oracledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|solutionrelative:apioracle\\data\\oracledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|c:\\users\\alex\\documents\\c#\\apioracle\\apioracle\\entities\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|solutionrelative:apioracle\\entities\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|c:\\users\\alex\\documents\\c#\\apioracle\\apioracle\\intefaces\\ialumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|solutionrelative:apioracle\\intefaces\\ialumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|c:\\users\\alex\\documents\\c#\\apioracle\\apioracle\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|solutionrelative:apioracle\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|c:\\users\\alex\\documents\\c#\\apioracle\\apioracle\\entities\\grupos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|solutionrelative:apioracle\\entities\\grupos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|c:\\users\\alex\\documents\\c#\\apioracle\\apioracle\\infrastructure\\alumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|solutionrelative:apioracle\\infrastructure\\alumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|c:\\users\\alex\\documents\\c#\\apioracle\\apioracle\\entities\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9764A6-50B2-4765-912B-0FD5B1490C20}|APIORACLE\\APIORACLE.csproj|solutionrelative:apioracle\\entities\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Grupos.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Entities\\Grupos.cs",
+              "RelativeDocumentMoniker": "APIORACLE\\Entities\\Grupos.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Entities\\Grupos.cs",
+              "RelativeToolTip": "APIORACLE\\Entities\\Grupos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T04:34:38.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Entities\\Alumno.cs",
+              "RelativeDocumentMoniker": "APIORACLE\\Entities\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Entities\\Alumno.cs",
+              "RelativeToolTip": "APIORACLE\\Entities\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T04:01:14.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\appsettings.json",
+              "RelativeDocumentMoniker": "APIORACLE\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\appsettings.json",
+              "RelativeToolTip": "APIORACLE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T03:55:27.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Entities\\Alumnos.cs",
+              "RelativeDocumentMoniker": "APIORACLE\\Entities\\Alumnos.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Entities\\Alumnos.cs",
+              "RelativeToolTip": "APIORACLE\\Entities\\Alumnos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T03:35:15.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OracleDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Data\\OracleDbContext.cs",
+              "RelativeDocumentMoniker": "APIORACLE\\Data\\OracleDbContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Data\\OracleDbContext.cs",
+              "RelativeToolTip": "APIORACLE\\Data\\OracleDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA5wBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:25:50.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAlumnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Intefaces\\IAlumnoRepository.cs",
+              "RelativeDocumentMoniker": "APIORACLE\\Intefaces\\IAlumnoRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Intefaces\\IAlumnoRepository.cs",
+              "RelativeToolTip": "APIORACLE\\Intefaces\\IAlumnoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:46:07.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlumnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Infrastructure\\AlumnoRepository.cs",
+              "RelativeDocumentMoniker": "APIORACLE\\Infrastructure\\AlumnoRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Infrastructure\\AlumnoRepository.cs",
+              "RelativeToolTip": "APIORACLE\\Infrastructure\\AlumnoRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:19:11.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "APIORACLE\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Alex\\Documents\\C#\\APIORACLE\\APIORACLE\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "APIORACLE\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:17:51.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

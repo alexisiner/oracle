@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "APIORACLE.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIORACLE.Controllers.WeatherForecastController",
+    "Method": "GetAlumnos",
+    "RelativePath": "WeatherForecast/GetAlumnos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
